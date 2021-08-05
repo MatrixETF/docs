@@ -34,3 +34,7 @@
 
 * [Community Links](community-ecology/untitled.md)
 
+---
+
+* [MatrixETF FAQ](matrixetf-faq.md)
+
