@@ -10,7 +10,7 @@ An exchange traded fund \(ETF\) is a type of security that tracks an index, sect
 
 The main differences between MatrixETF and traditional ETF:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## 3. How is the net value of MatrixETF fund calculates? <a id="fcbd"></a>
 
