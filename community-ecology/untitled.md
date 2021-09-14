@@ -12,7 +12,9 @@ Twitter：[https://twitter.com/MatrixETF](https://twitter.com/MatrixETF)
 
 Medium：[https://medium.com/@MatrixETF](https://medium.com/@MatrixETF)
 
-Telegram： [https://t.me/MatrixETF](https://t.me/MatrixETF)
+Official Telegram： [https://t.me/MatrixETF](https://t.me/MatrixETF)
+
+Channel Telegram：[https://t.me/MatrixETFOfficial](https://t.me/MatrixETFOfficial)
 
 Github ：[https://github.com/MatrixETF](https://github.com/MatrixETF)
 

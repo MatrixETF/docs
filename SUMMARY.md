@@ -7,6 +7,7 @@
 * [Introduction](whats-matrixetf/untitled-1.md)
 * [MatrixETF](whats-matrixetf/untitled.md)
 * [Vison](whats-matrixetf/vison.md)
+* [Roadmap](whats-matrixetf/roadmap.md)
 * [MatrixETF FAQ](whats-matrixetf/matrixetf-faq.md)
 
 ## Products
@@ -34,9 +35,10 @@
 ## Community Ecology
 
 * [Community Links](community-ecology/untitled.md)
+* [Investors & Partner](community-ecology/investors-and-partner.md)
 
 ---
 
-* [Untitled](untitled.md)
+* [Notice and Disclaimer](untitled.md)
 * [Risks](risks.md)
 
