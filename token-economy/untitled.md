@@ -19,6 +19,14 @@ Ethereum: [0x1a57367c6194199e5d9aea1ce027431682dfb411](https://etherscan.io/addr
 Solana: [ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z](https://explorer.solana.com/address/ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z/largest)  
 [https://explorer.solana.com/address/ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z](https://explorer.solana.com/address/ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z)
 
+Now $MDF has been listed on:
+
+`Gate:`[`https://www.gate.io/trade/MDF_USDT`](https://www.gate.io/trade/MDF_USDT)\`\`
+
+`Raydium:`[`https://raydium.io/swap/?ammId=EYYHUrTo5VUAwXjm6NZSgtrKpr53Mtbvk1Mg74cxEyq4`](https://raydium.io/swap/?ammId=EYYHUrTo5VUAwXjm6NZSgtrKpr53Mtbvk1Mg74cxEyq4)\`\`
+
+`Uniswap:`[`https://www.dextools.io/app/ether/pair-explorer/0xe6bbc807cb59b5f280b835135d01d077657d4550`](https://www.dextools.io/app/ether/pair-explorer/0xe6bbc807cb59b5f280b835135d01d077657d4550)\`\`
+
 ### **MDF Utility**
 
 MDF is the governance token of MatrixETF community, including the following usage scenarios and utilities:
