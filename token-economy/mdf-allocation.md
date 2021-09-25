@@ -9,7 +9,7 @@ SLP:     377,000,000 MDF
 
 MDF allocation includes the following parts:
 
-![MDF allocation](../.gitbook/assets/bing-tu-2.png)
+![MDF allocation](../.gitbook/assets/mdf-allocation.png)
 
 * IDO \(0.5%\): initial issue in IDO.
 * PE \(6.25%\): Unlock 10% before listing, and the remaining will be unlocked once a quarter, which will be completed within 1 year.
