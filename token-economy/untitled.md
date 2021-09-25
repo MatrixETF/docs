@@ -6,11 +6,12 @@ MDF is the governance token of MatrixETF. MDF holders can participate in communi
 
 MDF is a token deployed on Ethereum and Solana blockchain network, and its maximum supply limit is 1,000,000,000 tokens.
 
-`ERC-20: 623,000,000 MDF`
+```text
+ERC-20:  623,000,000 MDF
+SLP:     377,000,000 MDF
+```
 
-`SLP: 377,000,000 MDF`
-
-Token Contract Information:
+### MDF Contract Information:
 
 Ethereum: [0x1a57367c6194199e5d9aea1ce027431682dfb411](https://etherscan.io/address/0x1a57367c6194199e5d9aea1ce027431682dfb411)
 
