@@ -4,35 +4,34 @@
 
 ![MatrixETF Roadmap](../.gitbook/assets/matrix-roadmap.png)
 
-**Phase1：Platform Self-created Funds**
+## 2021 Q4 <a href="4782" id="4782"></a>
 
-At this phase, MatrixETF will launch multiple conceptual ETFs based on unique weighting methods, including but not limited to:
+* Realize ETF functions such as Swap, Mint, Redeem on both ETH and Solana
+* Develop the interaction webpage between ETF and users
+* Get through code audit and official public testnet
+* Build complete ETF interaction webpage
+* Launch more than 2 ETFs and operate stably
+* Turn on ETFs and MDF liquidity pool and allow users to participate in asset management in the pool, which include Staking/Lending/Farming
+* DEX transaction function-Mswap,include Exchange between ETF and main tokens and Add LP liquidity
+* Cooperate with other projects and establish LP together
 
-•Top DeFi ETF
+## 2022 Q1-Q2 <a href="a3a6" id="a3a6"></a>
 
-•Public Chain ETF
+* Allow mutual transactions between ETF component currencies, create extra handling fee profits to ETF
+* Design various ETF products with different functions such as integrate with hedge or embed with other ETFs
+* Autonomous rebalance mechanism which can execute ETF Rebalance automatically and follow rebalance strategy weekly or monthly
+* Develop initial dynamic AMM management function such as ETF will automatically increase qualified component currency proportions and decrease unqualified currency proportions
+* Complete NFT Blind Box and Matrix NFT functions, accomplish user incentive NFT product of MatrixETF
 
-•NFT Game ETF
+## 2022 Q3-Q4 <a href="fd93" id="fd93"></a>
 
-•Layer-2 ETF
+* Establish DAO and gain ETF governance to allow DAO proposal and deploy ETF contracts etc
+* Develop toolkit modular component of DeFi middleware, from which users can launch their own ETFs freely
+* Allow users customize ETF strategy, manage ETF assets to increase ETF value and participate in DeFi ecosystem by the toolkit modular component
+* Upgrade AMM governance strategy
+* Develop ETF Vault Aggregator, users can obtain extra profits efficiently
+* Deploy ETF gradually on other public chains such as BSC/Polygon
+* Cooperate with well-known institutions and add active ETF sector
+* Cooperate with other platform to launch contracts or options based on ETF
 
-Most ETF products on the MatrixETF platform are supported by a basket of encrypted assets, which can be purchased and redeemed at any time. Users can track the performance of high-quality tokens in specific areas of the blockchain through operations such as purchase transactions and redemption of ETF products, as well as achieve diversified investment goal.
-
-**Phase2：Support for Adding Derivatives**
-
-MatrixETF will put users’ assets on the platform to participate in the interaction with getting out of DeFi ecosystem, such as participating in Compound lending, Uniswap liquidity mining, etc. to generate aggregated Vault income, which will be returned to users who hold ETF funds, bringing additional benefits to users’ income.
-
-Therefore, MatrixETF products at this phase will support derivatives, including EFT mining, ETF trading, ETF based NFT as well as lending.
-
-**Phase3：DAO Community Governance**
-
-In the early stage, the platform launched several main conceptual ETFs as the base, then gradually transitioned to the way of community autonomy to jointly determine to the construction and implementation of ETF products. In the end Matrix Dao will in charge of MatrixETF, as we know MatrixETF is a decentralized autonomous organization.
-
-Users in community can initiate ETF product proposals through Dao, after the proposals reach a certain degree of attention, they can have a vote. ETF proposals which have been voted will be officially launched on the platform. Proposals sponsors and winner will receive the incentives by community.
-
-**Phase4：MatrixETF Components**
-
-At this stage, MatrixETF will open the MatrixETF Set toolkit. MatrixETF Set is an ETF-DeFi protocol which can provide convenient asset investment portfolio and transaction services for asset issuers/KOLs, asset managers and individuals. Through this agreement, any user could create a cryptocurrency ETF, accept user capital injections, at the same time use the tool provided by the platform\(including DEX trading, lending, farming, governance, insurance, strategy etc\) to operate the fund consequently to obtain benefits.
-
-On this basis, all the users can use the Set component to customize ETF, then use different tools provided by the platform to add value in addition to attract more customers to purchase/cast, therefore to obtain commissions/premiums etc. As a unique and diversified toolkit, MatrixETF Set will provide more convenient products for special groups such as fund managers, KOLs and investment institutes, which is good for the accumulation of traffic and the expansion of the ETF market.
-
+The launching of 2 Matrix Index products will meet various investment demands of community users in crypto market. We will gradually iterate optimizing the products to meet encrypted ETF investment desires. Meanwhile we are on the process of User Incentive Proposal for MDI/MSI/MDF holders, which will be announced in the near future. Stay tuned with MatrixETF!
