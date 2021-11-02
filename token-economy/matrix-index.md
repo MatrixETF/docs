@@ -26,23 +26,23 @@ MatrixETF adopts the fundamental weighted method, which is weighted by 70% of th
 
 ### Circulation Market Value
 
-In terms of circulation market value, the price and circulating supply of each token are obtained through CoinGecko and Coinmarketcap, and the circulation market value is determined by multiplying the price of each token by the circulating supply. 
+In terms of circulation market value, the price and circulating supply of each token are obtained through CoinGecko and Coinmarketcap, and the circulation market value is determined by multiplying the price of each token by the circulating supply.&#x20;
 
 The following table is an example of the market value ratio of MDI funds:
 
-| DeFi | Circulating Supply | Token Price（$） | Circulating Market Cap（$） | % of Index |
-| :--- | :--- | :--- | :--- | :--- |
-| UNI | 519,857,388 | 31.16  | 16,197,040,681 | 48% |
-| Aave | 12,275,357 | 368.30  | 4,521,013,983 | 14% |
-| SNX | 106,061,984 | 19.14  | 2,029,686,975 | 6% |
-| Sushi | 156,541,312 | 20.18  | 3,159,128,909 | 9% |
-| GRT | 1,245,666,867 | 1.72  | 2,144,290,945 | 6% |
-| COMP | 2,561,279 | 427.93  | 1,096,048,122 | 3% |
-| MKR | 996,553 | 2114.54  | 2,107,251,181 | 6% |
-| YFI | 30,000 | 35657.25  | 1,069,717,500 | 3% |
-| BNT | 94,552,997 | 7.75  | 732350783.00  | 2% |
-| CRV | 200,408,156 | 2.03  | 406,267,414 | 1% |
-| Total |  |  | 33462796493.00  | 100% |
+| DeFi  | Circulating Supply | Token Price（$） | Circulating Market Cap（$） | % of Index |
+| ----- | ------------------ | -------------- | ------------------------- | ---------- |
+| UNI   | 519,857,388        | 31.16          | 16,197,040,681            | 48%        |
+| Aave  | 12,275,357         | 368.30         | 4,521,013,983             | 14%        |
+| SNX   | 106,061,984        | 19.14          | 2,029,686,975             | 6%         |
+| Sushi | 156,541,312        | 20.18          | 3,159,128,909             | 9%         |
+| GRT   | 1,245,666,867      | 1.72           | 2,144,290,945             | 6%         |
+| COMP  | 2,561,279          | 427.93         | 1,096,048,122             | 3%         |
+| MKR   | 996,553            | 2114.54        | 2,107,251,181             | 6%         |
+| YFI   | 30,000             | 35657.25       | 1,069,717,500             | 3%         |
+| BNT   | 94,552,997         | 7.75           | 732350783.00              | 2%         |
+| CRV   | 200,408,156        | 2.03           | 406,267,414               | 1%         |
+| Total |                    |                | 33462796493.00            | 100%       |
 
 ### Fundamentals Value
 
@@ -60,7 +60,7 @@ When considering the fundamentals, it will be analyzed from the economic model o
 * The project must be in the construction of useful agreements or products, not with the nature of Ponzi scheme, or entertainment gambling purposes.
 * Whether the project has a clear roadmap and is implemented as planned.
 * The project must have GitHub code, and submit it regularly.
-* The project must have a product \(beta version or official version\), or a relatively complete product design.
+* The project must have a product (beta version or official version), or a relatively complete product design.
 * The agreement or product must have been released for at least 90 days.
 * The ecology and application development of the project.
 * The status of the agreement or project cannot be bankruptcy.
@@ -83,41 +83,41 @@ When considering the fundamentals, it will be analyzed from the economic model o
 #### Project Community
 
 * The project must have a more standardized community governance process
-* Whether the project has established an international community \(Twitter/telegram/facebook/Meduim/Discord, etc.\)
+* Whether the project has established an international community (Twitter/telegram/facebook/Meduim/Discord, etc.)
 * Data on the number of users, participation and daily user activity of the project community
 * Whether the project has weekly journals, regularly release project progress, and actively communicate with community users.
 
 The table below is an example of the proportion of fundamentals of MDI funds:
 
-| **DeFi** | Economic Model | Development | Security | Trading Risk | Community Foundation | Average |  **%of Index** |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| UNI | 8.5  | 9.5  | 9.0  | 9.5  | 9.8  | 9.26 | 10.66% |
-| Aave | 8.0  | 9.0  | 8.8  | 9.3  | 8.8  | 8.78 | 10.10% |
-| SNX | 8.2  | 8.6  | 8.5  | 9.0  | 8.5  | 8.56 | 9.85% |
-| Sushi | 9.0  | 8.5  | 8.6  | 8.2  | 9.4  | 8.74 | 10.06% |
-| GRT | 8.6  | 9.0  | 9.0  | 8.0  | 8.5  | 8.62 | 9.92% |
-| COMP | 9.0  | 8.8  | 8.4  | 8.8  | 8.6  | 8.72 | 10.03% |
-| MKR | 8.4  | 9.0  | 8.3  | 8.6  | 8.0  | 8.46 | 9.74% |
-| YFI | 9.6  | 9.0  | 8.8  | 8.7  | 8.8  | 8.98 | 10.33% |
-| BNT | 8.8  | 8.6  | 8.6  | 7.8  | 8.0  | 8.36 | 9.62% |
-| CRV | 9.2  | 8.5  | 8.5  | 8.1  | 7.8  | 8.42 | 9.69% |
-| Total |  |  |  |  |  | 86.9 | 100.00% |
+| **DeFi** | Economic Model | Development | Security | Trading Risk | Community Foundation | Average | ** %of Index** |
+| -------- | -------------- | ----------- | -------- | ------------ | -------------------- | ------- | -------------- |
+| UNI      | 8.5            | 9.5         | 9.0      | 9.5          | 9.8                  | 9.26    | 10.66%         |
+| Aave     | 8.0            | 9.0         | 8.8      | 9.3          | 8.8                  | 8.78    | 10.10%         |
+| SNX      | 8.2            | 8.6         | 8.5      | 9.0          | 8.5                  | 8.56    | 9.85%          |
+| Sushi    | 9.0            | 8.5         | 8.6      | 8.2          | 9.4                  | 8.74    | 10.06%         |
+| GRT      | 8.6            | 9.0         | 9.0      | 8.0          | 8.5                  | 8.62    | 9.92%          |
+| COMP     | 9.0            | 8.8         | 8.4      | 8.8          | 8.6                  | 8.72    | 10.03%         |
+| MKR      | 8.4            | 9.0         | 8.3      | 8.6          | 8.0                  | 8.46    | 9.74%          |
+| YFI      | 9.6            | 9.0         | 8.8      | 8.7          | 8.8                  | 8.98    | 10.33%         |
+| BNT      | 8.8            | 8.6         | 8.6      | 7.8          | 8.0                  | 8.36    | 9.62%          |
+| CRV      | 9.2            | 8.5         | 8.5      | 8.1          | 7.8                  | 8.42    | 9.69%          |
+| Total    |                |             |          |              |                      | 86.9    | 100.00%        |
 
 The following table is an example of the final proportion after taking the market value and fundamentals into consideration:
 
-| DeFi | Market Cap\(70%\) | Fundamental\(30%\) | Average | % of Index |
-| :--- | :--- | :--- | :--- | :--- |
-| UNI | 48.40  | 10.66  | 59.06  | 29.53% |
-| Aave | 13.51  | 10.10  | 23.61  | 11.81% |
-| SNX | 6.07  | 9.85  | 15.92  | 7.96% |
-| Sushi | 9.44  | 10.06  | 19.50  | 9.75% |
-| GRT | 6.41  | 9.92  | 16.33  | 8.16% |
-| COMP | 3.28  | 10.03  | 13.31  | 6.65% |
-| MKR | 6.30  | 9.74  | 16.03  | 8.02% |
-| YFI | 3.20  | 10.33  | 13.53  | 6.77% |
-| BNT | 2.19  | 9.62  | 11.81  | 5.90% |
-| CRV | 1.21  | 9.69  | 10.90  | 5.45% |
-| Total | 100.00  | 100.00  | 200.00  | 100.00% |
+| DeFi  | Market Cap(70%) | Fundamental(30%) | Average | % of Index |
+| ----- | --------------- | ---------------- | ------- | ---------- |
+| UNI   | 48.40           | 10.66            | 59.06   | 29.53%     |
+| Aave  | 13.51           | 10.10            | 23.61   | 11.81%     |
+| SNX   | 6.07            | 9.85             | 15.92   | 7.96%      |
+| Sushi | 9.44            | 10.06            | 19.50   | 9.75%      |
+| GRT   | 6.41            | 9.92             | 16.33   | 8.16%      |
+| COMP  | 3.28            | 10.03            | 13.31   | 6.65%      |
+| MKR   | 6.30            | 9.74             | 16.03   | 8.02%      |
+| YFI   | 3.20            | 10.33            | 13.53   | 6.77%      |
+| BNT   | 2.19            | 9.62             | 11.81   | 5.90%      |
+| CRV   | 1.21            | 9.69             | 10.90   | 5.45%      |
+| Total | 100.00          | 100.00           | 200.00  | 100.00%    |
 
 ### Matrix Index Rebalance
 
@@ -137,4 +137,3 @@ This phase usually takes place in the fourth week of each month. At this phase, 
 #### 2.Rebalance
 
 The index and fund need to be adjusted according to the announcement after the end of the confirmation, in which the addition and deletion of related token and weighted proportion are completed in the first week of the next month.
-

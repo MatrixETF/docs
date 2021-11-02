@@ -1,6 +1,6 @@
-# Matrix DeFi Index Set\(MDI\)
+# Matrix DeFi Index Set(MDI)
 
-Matrix DeFI Index\(MDI\) is a kind of capitalization-weighted index fund, which is composed of the best DeFi protocols in the cryptocurrency market \(including UNI, SUSHI, AAVE, SNX, MKR, COMP,YFI, CRV, GRT, etc.\), and can track popular DeFi assets in the whole cryptocurrency market.
+Matrix DeFI Index(MDI) is a kind of capitalization-weighted index fund, which is composed of the best DeFi protocols in the cryptocurrency market (including UNI, SUSHI, AAVE, SNX, MKR, COMP,YFI, CRV, GRT, etc.), and can track popular DeFi assets in the whole cryptocurrency market.
 
 MDI issues shares according to market share and real capitals, which means that each MDI share is supported by the underlying encrypted assets and can be subscribed and redeemed at any time.
 
@@ -32,9 +32,9 @@ MDI fund is composed of hot DeFi projects in cryptocurrency market, including UN
 
 MatrixETF adopts the fundamental weighted method, which is weighted by 70% of the circulation market value and 30% of the fundamentals.
 
-The price and circulating supply of each token are obtained through CoinGecko and CoinMarketCap, and the circulation market value is determined by multiplying the price of each token by the circulating supply. 
+The price and circulating supply of each token are obtained through CoinGecko and CoinMarketCap, and the circulation market value is determined by multiplying the price of each token by the circulating supply.&#x20;
 
-When considering the fundamentals, it will be analyzed from the economic model of the token, the development of the project, the security of the agreement, the transaction risk of the token, and the community foundation \(please see the "Standards of an ETF" below\).
+When considering the fundamentals, it will be analyzed from the economic model of the token, the development of the project, the security of the agreement, the transaction risk of the token, and the community foundation (please see the "Standards of an ETF" below).
 
 The figure below is an illustration of MDI:
 
@@ -42,5 +42,4 @@ The figure below is an illustration of MDI:
 
 The index will be re**-**weighted on the first day of each month. When the market value of MDI fund exceeds $10M, the number and proportion of tokens corresponding to each MDI fund will be updated simultaneously.
 
-\*\*\*\*
-
+****
