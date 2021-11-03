@@ -8,7 +8,7 @@ MDF is a token deployed on Ethereum and Solana blockchain network, and its maxim
 
 ```
 ERC-20:  623,000,000 MDF
-SLP:     377,000,000 MDF
+SPL:     377,000,000 MDF
 ```
 
 ### MDF Contract Information:
