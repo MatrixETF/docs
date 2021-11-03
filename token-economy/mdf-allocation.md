@@ -52,6 +52,8 @@ Now $MDF has been listed on:
 
 `Gate:`[`https://www.gate.io/trade/MDF_USDT`](https://www.gate.io/trade/MDF\_USDT)``
 
+`Mexc：`[`https://www.mexc.com/zh-CN/exchange/MDF_USDT`](https://www.mexc.com/zh-CN/exchange/MDF\_USDT)``
+
 `Raydium:`[`https://raydium.io/swap/?ammId=EYYHUrTo5VUAwXjm6NZSgtrKpr53Mtbvk1Mg74cxEyq4`](https://raydium.io/swap/?ammId=EYYHUrTo5VUAwXjm6NZSgtrKpr53Mtbvk1Mg74cxEyq4)``
 
 `Uniswap:`[`https://www.dextools.io/app/ether/pair-explorer/0xe6bbc807cb59b5f280b835135d01d077657d4550`](https://www.dextools.io/app/ether/pair-explorer/0xe6bbc807cb59b5f280b835135d01d077657d4550)``
