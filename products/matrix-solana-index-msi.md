@@ -42,7 +42,7 @@ According to MatrixETF Index Methodology, there are 5 standards to filter in Fun
 
 According to 5 features of Fundamental Weighting, we compute MSI component token weighting proportions as below:
 
-![](https://miro.medium.com/max/60/0\*0rJBrwgyVukqV95d?q=20)![](https://miro.medium.com/max/1400/0\*0rJBrwgyVukqV95d)
+![](https://miro.medium.com/max/1400/0\*0rJBrwgyVukqV95d)
 
 ## Market Capitalization Square Root Weighting <a href="5419" id="5419"></a>
 
@@ -50,17 +50,19 @@ Market Capitalization refers to the project circulation market capitalization, a
 
 According to Market Capitalization Weighting, we compute MSI component token weighting proportions as below:
 
-![](https://miro.medium.com/max/60/0\*evU69MlcI9R8PpiW?q=20)![](https://miro.medium.com/max/1400/0\*evU69MlcI9R8PpiW)
+![](https://miro.medium.com/max/1400/0\*evU69MlcI9R8PpiW)
 
 Market Capitalization of SOL (94.80%) is higher than the biggest asset proportion（Max ≤ 80%）, this is why we chose Market Capitalization Square Root Weighting to restrain one asset impact to portfolio. We compute MSI component token proportions as below:
 
-![](https://miro.medium.com/max/60/0\*sDVxgO\_p1mB8Gpre?q=20)![](https://miro.medium.com/max/1400/0\*sDVxgO\_p1mB8Gpre)
+![](https://miro.medium.com/max/1400/0\*sDVxgO\_p1mB8Gpre)
 
 ## Final Weighting Proportion <a href="f33f" id="f33f"></a>
 
 According to the weight method of 70% Market Capitalization+30% Fundamental Weighting, we comprehensively compute MSI component token final proportions as below:
 
-![](https://miro.medium.com/max/60/0\*fNo6-kVqHFF4ztZF?q=20)![](https://miro.medium.com/max/1326/0\*fNo6-kVqHFF4ztZF)\
+\
 
+
+![](https://miro.medium.com/max/1326/0\*fNo6-kVqHFF4ztZF)
 
 ## &#x20;<a href="5c4d" id="5c4d"></a>
