@@ -1,8 +1,8 @@
 # Roadmap
 
-**There are 4 phases on MatrixETF product roadmap as below:**
+**There are MatrixETF product roadmap as below:**
 
-![MatrixETF Roadmap](../.gitbook/assets/matrix-roadmap.png)
+![](../.gitbook/assets/roadmap.png)
 
 ## 2021 Q4 <a href="4782" id="4782"></a>
 
