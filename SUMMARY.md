@@ -13,7 +13,7 @@
 ## Products
 
 * [The Logical Design of MatrixETF](products/untitled.md)
-* [Matrix DeFi Index Set(MDI)](products/matrix-defi-index-set-mdi.md)
+* [Matrix DeFi Index(MDI)](products/matrix-defi-index-set-mdi.md)
 * [Matrix Chain Index（MCI）](products/untitled-2.md)
 * [Matrix Solana Index（MSI）](products/matrix-solana-index-msi.md)
 * [Matrix Swap](products/untitled-3.md)
