@@ -6,7 +6,7 @@ During the Open Test of MatrixETF process, there are quite few users asking the 
 
 An exchange traded fund (ETF) is a type of security that tracks an index, sector, commodity, or other asset, but which can be purchased or sold on a stock exchange the same as a regular stock.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## 2. **What’s the difference between MatrixETF products and traditional ETF?** <a href="02fc" id="02fc"></a>
 
