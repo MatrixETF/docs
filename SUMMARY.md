@@ -18,6 +18,7 @@
 * [Matrix Derivatives](products/untitled-4.md)
 * [Farming & Pool](products/untitled-5.md)
 * [MatrixETF Set](products/matrixetf-set.md)
+* [Matrix Blind Box](products/matrix-blind-box.md)
 
 ***
 
@@ -38,6 +39,10 @@
 * [DAO](community-governance/untitled.md)
 * [MDF Governance](community-governance/mdf-governance.md)
 * [Snapshot](community-governance/snapshot.md)
+
+***
+
+* [Article collection](article-collection.md)
 
 ## Community Ecology
 
