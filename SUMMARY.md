@@ -10,6 +10,10 @@
 * [Roadmap](whats-matrixetf/roadmap.md)
 * [MatrixETF FAQ](whats-matrixetf/matrixetf-faq.md)
 
+***
+
+* [Audit Report](audit-report.md)
+
 ## Products
 
 * [The Logical Design of MatrixETF](products/untitled.md)
