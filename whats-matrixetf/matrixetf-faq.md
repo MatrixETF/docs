@@ -6,7 +6,7 @@ During the Open Test of MatrixETF process, there are quite few users asking the 
 
 An exchange traded fund (ETF) is a type of security that tracks an index, sector, commodity, or other asset, but which can be purchased or sold on a stock exchange the same as a regular stock.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ## 2. **What’s the difference between MatrixETF products and traditional ETF?** <a href="02fc" id="02fc"></a>
 
@@ -111,5 +111,9 @@ All assets are custody in fund pool which is in charge of Smart Contract, users 
 MatrixETF will continuously add more Q\&A inside, if you have more questions, please feel free to contact with us.
 
 ## 13.How is an ETF created?
+
+![](<../.gitbook/assets/image (3) (1).png>)
+
+## 14.How  to Arbitrage on MatrixETF index?
 
 ![](<../.gitbook/assets/image (3).png>)

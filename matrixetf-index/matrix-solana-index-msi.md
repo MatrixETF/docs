@@ -1,6 +1,6 @@
 # Matrix Solana Index(MSI）
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## Introduction of Matrix Solana Index <a href="586f" id="586f"></a>
 
