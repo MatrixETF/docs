@@ -24,8 +24,12 @@ Contract: 2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd
 
 Solana Explorer: [Solana](https://www.google.com/url?q=https://explorer.solana.com/address/2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd\&sa=D\&source=docs\&ust=1634909067885000\&usg=AOvVaw0fziCfkcXeJthvljS-EuaR) or [Solscan](https://solscan.io/token/2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd)
 
+[![CoinGecko Logo](https://static.coingecko.com/s/coingecko-logo-d13d6bcceddbb003f146b33c2f7e8193d72b93bb343d38e392897c3df3e78bdd.png)](https://www.coingecko.com/zh)
+
+[https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/matrix-solana-index](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/matrix-solana-index)
 
 
-Matrix Index Introduction
+
+**Matrix Index Introduction**
 
 [https://drive.google.com/file/d/1Y-wuBW4N8qW5wuFMDvb75Xh-54xcHOCp/view?usp=sharing](https://drive.google.com/file/d/1Y-wuBW4N8qW5wuFMDvb75Xh-54xcHOCp/view?usp=sharing)
