@@ -89,7 +89,7 @@ When considering the fundamentals, it will be analyzed from the economic model o
 
 The table below is an example of the proportion of fundamentals of MDI funds:
 
-| **DeFi** | Economic Model | Development | Security | Trading Risk | Community Foundation | Average | ** %of Index** |
+| **DeFi** | Economic Model | Development | Security | Trading Risk | Community Foundation | Average |  **%of Index** |
 | -------- | -------------- | ----------- | -------- | ------------ | -------------------- | ------- | -------------- |
 | UNI      | 8.5            | 9.5         | 9.0      | 9.5          | 9.8                  | 9.26    | 10.66%         |
 | Aave     | 8.0            | 9.0         | 8.8      | 9.3          | 8.8                  | 8.78    | 10.10%         |

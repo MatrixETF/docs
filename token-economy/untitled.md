@@ -45,6 +45,6 @@ MDF is the governance token of MatrixETF community, including the following usag
 
 ## **Matrix Index**
 
-Matrix Index is a cryptocurrency index fund designed to track quality tokens in blockchain industry and DeFi finance.The index fund is weighted based on the market value of each token. There is a basket of token assets of the fund**, **allows a greater diversification of risk and gains the better returns through diversified asset allocation of DeFi.
+Matrix Index is a cryptocurrency index fund designed to track quality tokens in blockchain industry and DeFi finance.The index fund is weighted based on the market value of each token. There is a basket of token assets of the fund**,** allows a greater diversification of risk and gains the better returns through diversified asset allocation of DeFi.
 
 ****

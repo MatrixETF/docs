@@ -50,6 +50,7 @@
 
 ## Community Ecology
 
+* [MatrixETF Community Ambassador Plan](community-ecology/matrixetf-community-ambassador-plan.md)
 * [Community Links](community-ecology/untitled.md)
 * [Investors & Partner](community-ecology/investors-and-partner.md)
 

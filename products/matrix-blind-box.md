@@ -20,7 +20,7 @@ The following information is about the introduction and statistics of Matrix Bli
 
 ![](https://miro.medium.com/max/625/0\*ycU\_8WYP5E237lde)
 
-**ETF Fund NFT **is the ETF right certificate NFT on MatrixETF, which can be exchanged as the corresponding ETF shares in the specific conditions. The rarity and Drop ratio of the first ETF fund NFT are as below:
+**ETF Fund NFT** is the ETF right certificate NFT on MatrixETF, which can be exchanged as the corresponding ETF shares in the specific conditions. The rarity and Drop ratio of the first ETF fund NFT are as below:
 
 ![](https://miro.medium.com/max/542/0\*7AOIqcivPK0ZDEL7)
 
