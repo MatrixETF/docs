@@ -50,7 +50,10 @@
 
 ## Community Ecology
 
-* [MatrixETF Community Ambassador Plan](community-ecology/matrixetf-community-ambassador-plan.md)
+* [MatrixETF Community Ambassador Plan](community-ecology/matrixetf-community-ambassador-plan/README.md)
+  * [How to be a MatrixETF Community Ambassador?](community-ecology/matrixetf-community-ambassador-plan/how-to-be-a-matrixetf-community-ambassador.md)
+  * [Community Ambassador Point and Level](community-ecology/matrixetf-community-ambassador-plan/community-ambassador-point-and-level.md)
+  * [Ambassador FAQ](community-ecology/matrixetf-community-ambassador-plan/ambassador-faq.md)
 * [Community Links](community-ecology/untitled.md)
 * [Investors & Partner](community-ecology/investors-and-partner.md)
 
