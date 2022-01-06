@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="231px" height="38px" viewBox="0 0 231 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MatrixDao</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0F9B0F" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#56AB2F" offset="0%"></stop>
+            <stop stop-color="#A8E063" offset="100%"></stop>
+        </linearGradient>
+        <path d="M26.864338,0.000564054904 C24.4182853,4.99197774 19.3223526,8.42433697 13.4322702,8.42433697 C7.54218793,8.42433697 2.44625521,4.99197774 0.000202466922,0.000564054904 L9.9879971,5.17360014e-05 C9.9877352,0.0125533573 9.98760378,0.0250780967 9.98760378,0.0376252595 C9.98760378,1.36694629 11.46278,2.44457391 13.2825021,2.44457391 C15.1022243,2.44457391 16.5774005,1.36694629 16.5774005,0.0376252595 L16.5752025,-0.000248894403 Z" id="path-3"></path>
+        <filter x="-9.3%" y="-29.7%" width="126.1%" height="183.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.243498689 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16.633279,0.902607533 C16.2742873,6.39848451 17.4011222,9.58769779 20.0137835,10.4702474 C23.9327755,11.7940718 4.93613495,15.6752842 3.94890796,6.28816581 C2.96168097,-3.09895253 10.6500851,-8.45442389 13.641682,-5.77668821 C15.63608,-3.99153109 16.633279,-1.76509918 16.633279,0.902607533 Z" id="path-6"></path>
+        <filter x="-24.0%" y="-37.1%" width="195.9%" height="184.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="4" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.347199258   0 0 0 0 0.63207654   0 0 0 0 0.150864915  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M9.99193377,-9.76996262e-15 C9.63294214,5.49587698 10.759777,8.68509026 13.3724383,9.56763985 C17.2914303,10.8914642 -1.70521025,14.7726766 -2.69243724,5.38555828 C-3.67966423,-4.00156006 4.0087399,-9.35703142 7.00033683,-6.67929574 C8.99473479,-4.89413862 9.99193377,-2.66770671 9.99193377,-9.76996262e-15 Z" id="path-8"></path>
+        <filter x="-21.0%" y="-29.2%" width="183.9%" height="168.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="4" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.337254902   0 0 0 0 0.670588235   0 0 0 0 0.184313725  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ETFs详情页_按钮" transform="translate(-319.000000, -30.000000)">
+            <g id="编组-11" transform="translate(319.000000, 30.000000)">
+                <g id="MatrixDao" transform="translate(16.000000, 0.000000)">
+                    <circle id="椭圆形备份-2" cx="18" cy="19" r="18"></circle>
+                    <text id="MatrixETF" font-family="Montserrat-Bold, Montserrat" font-size="32" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="40" y="31">MatrixETF</tspan>
+                    </text>
+                </g>
+                <g id="MatrixDao" transform="translate(8.000000, 0.000000)">
+                    <circle id="椭圆形备份-2" fill="url(#linearGradient-1)" cx="19" cy="19" r="19"></circle>
+                    <g id="形状结合-2备份" transform="translate(5.000000, 18.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="形状结合">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                            <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="路径-2" mask="url(#mask-4)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#8ACE5B" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="路径-2" mask="url(#mask-4)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            <use fill="#A8E063" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -55,6 +55,7 @@
   * [Community Ambassador Point and Level](community-ecology/matrixetf-community-ambassador-plan/community-ambassador-point-and-level.md)
   * [Ambassador FAQ](community-ecology/matrixetf-community-ambassador-plan/ambassador-faq.md)
 * [Community Links](community-ecology/untitled.md)
+* [Brand suite](community-ecology/brand-suite.md)
 * [Investors & Partner](community-ecology/investors-and-partner.md)
 
 ***
