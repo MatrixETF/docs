@@ -42,14 +42,20 @@ Our review day is each Sunday, after UTC+ 12:00, so if you want to submit your w
 
 Only if you finish the [tasks work ](https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing)and gain 500 points, you will become one of MatrixETF Community Ambassadors.
 
-### 7.How can I exchange my points to MDF?
+### **7.Where can I find my Points and level?**
+
+Community Ambassador Points Rank:[https://docs.google.com/spreadsheets/d/1utLmKqKsvO5bGIvll-2W0grf90w2TjShUVhB1AJFzVo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1utLmKqKsvO5bGIvll-2W0grf90w2TjShUVhB1AJFzVo/edit?usp=sharing)
+
+### 8.How can I exchange my points to MDF?
 
 Only if you have 500 Points, you can submit your inquiry for exchange to MDF weekly.
 
-### 8.What's the exchange ration of Point and MDF?
+Applying Form:[https://forms.gle/gXWUvH8pVERyJkrD9](https://forms.gle/gXWUvH8pVERyJkrD9)
+
+### 9.What's the exchange ration of Point and MDF?
 
 The exchange ratio of Point and $MDF will be adjusted once 3 months, the initial ratio will be 1 Point=10 MDF.
 
-### 8.Is there any other rewards, except for Points?
+### 10.Is there any other rewards, except for Points?
 
 Yes. If you have 500 Points, you can get a "MatrixETF Army I" NFT Badge, once you have this Badge, you can have another 100 MDF Rewards Monthly
