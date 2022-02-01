@@ -20,7 +20,7 @@ We will start Ambassador trial running plan for 1 month. By distributing tasks i
 
 <mark style="color:yellow;">**Tasks Sheet**</mark>:[https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing)
 
-<mark style="color:yellow;">**Submit Form**</mark>:[https://forms.gle/pWBH53M2G3Vhw2tV6](https://forms.gle/pWBH53M2G3Vhw2tV6)
+<mark style="color:yellow;">**Submit Form**</mark>:[https://forms.gle/poLFKrEY49bW4nry6](https://forms.gle/poLFKrEY49bW4nry6)
 
 ### Fourth Step: Officially becoming one of **MatrixETF Community Ambassadors** <a href="#097f" id="097f"></a>
 
