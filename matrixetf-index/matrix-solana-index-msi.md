@@ -1,8 +1,8 @@
 # Matrix Solana Index(MSI）
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-## Introduction of Matrix Solana Index <a href="586f" id="586f"></a>
+## Introduction of Matrix Solana Index <a href="#586f" id="586f"></a>
 
 MatrixETF is the next generation of decentralized ETF platform supporting cross chain.
 
@@ -12,7 +12,7 @@ After launching the first Index product based on Ethereum — Matrix DeFi Index(
 
 Matrix Solana Index(MSI) is a first index to track the top presentation in Solana ecosystem, which provides investors with an investment and autonomous portfolio which is based on Solana ecosystem and decentralized governance. By holding MSI you can easily participate in investing in the Solana project, realize diversified asset placements and enjoy the prosperity of the Solana dynamic ecosystem.
 
-## MSI Constitution <a href="2dd6" id="2dd6"></a>
+## MSI Constitution <a href="#2dd6" id="2dd6"></a>
 
 Along with the popularity of DeFi in these two years in the crypto market, everyone wants to get involved in it. However almost all DeFi applications are established on Ethereum network with high gas fees and low TPS, which limit the ordinary users joining DeFi. Therefore the Solana network is in the hot trend with the advantages of low cost, high speed and good feasibility, more and more DeFi applications are getting into the Solana ecosystem.
 
@@ -30,7 +30,7 @@ By comprehensive consideration of market trend, project market cap comparison, p
 
 The other tokens are as backup tokens such as AUDIO. OXY. KIN. ORCA. STEP. COPE. PORT. Sunny etc,. Once one performs better than the initial 8 kinds of MSI component tokens, it will replace the old one to get into the index pool and be realized by Index rebalance.
 
-## MSI Weighting Proportion <a href="849d" id="849d"></a>
+## MSI Weighting Proportion <a href="#849d" id="849d"></a>
 
 MSI is constituted by 8 popular projects of Solana blockchain such as SOL. SRM. RAY. FIDA. MNGO. ATLAS. SLIM. TULIP.
 
@@ -47,7 +47,7 @@ MSI is a first index product focusing on Solana ecosystem, all belonged projects
 
 When calculating different MSI component token weighting proportions, we utilize 30% Fundamental Weighting+70% Market Capitalization Square Root Weighting to compute each basic asset allocation and weighting proportion. (For detailed method please refer to[《MatrixETF Index Methodology》](https://matrixetf.medium.com/matrixetf-index-methodology-d80e1f4860e8)）
 
-## Fundamental Weighting <a href="a6f8" id="a6f8"></a>
+## Fundamental Weighting <a href="#a6f8" id="a6f8"></a>
 
 According to MatrixETF Index Methodology, there are 5 standards to filter in Fundamental Weighting:
 
@@ -61,7 +61,7 @@ According to 5 features of Fundamental Weighting, we compute MSI component token
 
 ![](https://miro.medium.com/max/700/0\*0rJBrwgyVukqV95d)
 
-## Market Capitalization Square Root Weighting <a href="5419" id="5419"></a>
+## Market Capitalization Square Root Weighting <a href="#5419" id="5419"></a>
 
 Market Capitalization refers to the project circulation market capitalization, according to the authoritative data of CoinGecko and Coinmarketcap, to compute circulation market capitalization by obtaining Token prices and circulation data. There are 3 market wide accepted methods to weight the project market capitalization: Market Capitalization Weighting, Market Value Square Root Weighting and Equal Weighting.
 
@@ -73,13 +73,13 @@ Market Capitalization of SOL (94.80%) is higher than the biggest asset proportio
 
 ![](https://miro.medium.com/max/700/0\*sDVxgO\_p1mB8Gpre)
 
-## Final Weighting Proportion <a href="f33f" id="f33f"></a>
+## Final Weighting Proportion <a href="#f33f" id="f33f"></a>
 
 According to the weight method of 70% Market Capitalization+30% Fundamental Weighting, we comprehensively compute MSI component token final proportions as below:
 
 ![](https://miro.medium.com/max/663/0\*fNo6-kVqHFF4ztZF)
 
-## MSI Parameter <a href="29fe" id="29fe"></a>
+## MSI Parameter <a href="#29fe" id="29fe"></a>
 
 Token Name: Matrix Solana Index
 
@@ -89,11 +89,11 @@ Contract: 2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd
 
 Solana Explorer: [Solana](https://www.google.com/url?q=https://explorer.solana.com/address/2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd\&sa=D\&source=docs\&ust=1634909067885000\&usg=AOvVaw0fziCfkcXeJthvljS-EuaR) or [Solscan](https://solscan.io/token/2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd)
 
-## How to buy MSI <a href="5c4d" id="5c4d"></a>
+## How to buy MSI <a href="#5c4d" id="5c4d"></a>
 
 You have 2 choices to buy MSI
 
-### 1) Buy MSI ( suitable for a small amount<$3000) <a href="41ca" id="41ca"></a>
+### 1) Buy MSI ( suitable for a small amount<$3000) <a href="#41ca" id="41ca"></a>
 
 You can easily buy MSI on Raydium or MatrixETF APP.
 
@@ -109,7 +109,7 @@ By using MatrixETF APP, it will be ready when MSI is listed on the Symmetry.(At 
 
 Notice: in the beginning of MSI launching, the liquidity of the $MSI pool will be very low. At this time if you buy a big amount of MSI will cause the fluctuation of the token price away from its initial value. In this case we don’t suggest you buy a big amount of MSI (>$3000), otherwise it will cause a high slippage to lose your asset.
 
-### 2) MINT $MSI(suitable for big amount **≥$3,000)** <a href="baee" id="baee"></a>
+### 2) MINT $MSI(suitable for big amount **≥$3,000)** <a href="#baee" id="baee"></a>
 
 There are two steps:
 
@@ -125,7 +125,7 @@ Then, mint 8 Tokens for MSI.
 
 You need to have the component 8 Tokens in your wallet when you want to create $MSI shares by MINT. Input the desired amount and UI will calculate the demand 8 Token amounts. The transaction will succeed once you have enough Token amounts. The smart contract will deposit 8 Tokens into MSI smart contract pool, at the same time will MINT the corresponding $MSI share to your wallet.
 
-## How to sell MSI <a href="424d" id="424d"></a>
+## How to sell MSI <a href="#424d" id="424d"></a>
 
 There are also 2 ways to sell MSI:
 
@@ -145,7 +145,7 @@ Another way is Redeem MSI to a basket corresponding component Tokens.
 
 ![](https://miro.medium.com/max/700/0\*dPquwvF3qr\_eBQIe)
 
-## Redeem fee <a href="0e2b" id="0e2b"></a>
+## Redeem fee <a href="#0e2b" id="0e2b"></a>
 
 Compared to other Indexes, there are no additional fees on MatrixETF Index such as Mint fee, Governance fee or Trade fee etc,. There is only a 0.7% Redeem fee on Matrix Index we will charge when you Redeem MSI.
 
@@ -153,7 +153,7 @@ This fee points to the arbitrageurs who arbitrage MSI instead of selling it dire
 
 We allow the Matrix Community to obtain part of arbitrageur’s profits, which will be deposited into the Matrix Treasury. Community DAO will decide the final usage of the Redeem fee.
 
-## Conclusion <a href="63ca" id="63ca"></a>
+## Conclusion <a href="#63ca" id="63ca"></a>
 
 In traditional finance, ETF provides diversified choices and more freedom to ordinary users. We are pretty sure that MSI can provide users with various portfolios and save gas fees in the crypto market, furthermore to provide an opportunity to buy/sell /hold in the Solana ecosystem by single token.
 

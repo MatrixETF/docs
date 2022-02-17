@@ -20,7 +20,11 @@ We will start Ambassador trial running plan for 1 month. By distributing tasks i
 
 <mark style="color:yellow;">**Tasks Sheet**</mark>:[https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing)
 
-<mark style="color:yellow;">**Submit Form**</mark>:[https://forms.gle/poLFKrEY49bW4nry6](https://forms.gle/poLFKrEY49bW4nry6)
+<mark style="color:yellow;">**Submit Form**</mark>:
+
+~~<mark style="color:yellow;">1.</mark>~~[~~<mark style="color:yellow;">https://forms.gle/poLFKrEY49bW4nry6</mark>~~](https://forms.gle/poLFKrEY49bW4nry6)~~<mark style="color:yellow;">(</mark>~~<mark style="color:yellow;">disused</mark>~~<mark style="color:yellow;">)</mark>~~
+
+2.[https://forms.gle/CFnUPtQcNgbwpcEB6](https://forms.gle/CFnUPtQcNgbwpcEB6)
 
 ### Fourth Step: Officially becoming one of **MatrixETF Community Ambassadors** <a href="#097f" id="097f"></a>
 
@@ -32,17 +36,17 @@ We will start Ambassador trial running plan for 1 month. By distributing tasks i
 
 | Level | NFT Badge           | Demand Points | Upgrade Demand More Points | MDF Rewards Monthly |
 | ----- | ------------------- | ------------- | -------------------------- | ------------------- |
-| 1     | MatrixETF Army Ⅰ    | 500           | 500                        | 100                 |
-| 2     | MatrixETF Army Ⅱ    | 1,000         | 1,000                      | 200                 |
-| 3     | MatrixETF Army Ⅲ    | 2,000         | 2,000                      | 500                 |
-| 4     | MatrixETF Angel Ⅰ   | 4,000         | 4,000                      | 1,000               |
-| 5     | MatrixETF Angel Ⅱ   | 8,000         | 8,000                      | 1,500               |
-| 6     | MatrixETF Angel Ⅲ   | 16,000        | 16,000                     | 2,000               |
-| 7     | MatrixETF Creator Ⅰ | 32,000        | 32,000                     | 4,000               |
-| 8     | MatrixETF Creator Ⅱ | 64,000        | 64,000                     | 10,000              |
-| 9     | MatrixETF Creator Ⅲ | 128,000       | 128,000                    | 20,000              |
-| 10    | MatrixETF Genesis Ⅰ | 256,000       | 256,000                    | 50,000              |
-| 11    | MatrixETF Genesis Ⅱ | 512,000       | 512,000                    | 80,000              |
+| 1     | MatrixETF Army Ⅰ    | 500           | 200                        | 100                 |
+| 2     | MatrixETF Army Ⅱ    | 1,000         | 400                        | 200                 |
+| 3     | MatrixETF Army Ⅲ    | 2,000         | 800                        | 500                 |
+| 4     | MatrixETF Angel Ⅰ   | 4,000         | 1,000                      | 1,000               |
+| 5     | MatrixETF Angel Ⅱ   | 8,000         | 1,500                      | 1,500               |
+| 6     | MatrixETF Angel Ⅲ   | 16,000        | 2,000                      | 2,000               |
+| 7     | MatrixETF Creator Ⅰ | 32,000        | 3,000                      | 4,000               |
+| 8     | MatrixETF Creator Ⅱ | 64,000        | 5,000                      | 10,000              |
+| 9     | MatrixETF Creator Ⅲ | 128,000       | 8,000                      | 20,000              |
+| 10    | MatrixETF Genesis Ⅰ | 256,000       | 12,000                     | 50,000              |
+| 11    | MatrixETF Genesis Ⅱ | 512,000       | 20,000                     | 80,000              |
 | 12    | MatrixETF Genesis Ⅲ | 1,024,000     | -                          | 100000              |
 
 Except $MDF, we are designing different method rewards of MatrixETF Community Ambassador Plan. Hope more and more users participate in community contribution: Establish an active and strong MatrixETF community in crypto network。

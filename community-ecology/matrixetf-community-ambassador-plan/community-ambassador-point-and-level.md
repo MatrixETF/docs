@@ -10,17 +10,17 @@ MatrixETF Community Ambassador Plan will utilize the Point System. If you have a
 
 | Level | NFT Badge           | Demand Points | Upgrade Demand More Points | MDF Rewards Monthly |
 | ----- | ------------------- | ------------- | -------------------------- | ------------------- |
-| 1     | MatrixETF Army Ⅰ    | 500           | 500                        | 100                 |
-| 2     | MatrixETF Army Ⅱ    | 1,000         | 1,000                      | 200                 |
-| 3     | MatrixETF Army Ⅲ    | 2,000         | 2,000                      | 500                 |
-| 4     | MatrixETF Angel Ⅰ   | 4,000         | 4,000                      | 1,000               |
-| 5     | MatrixETF Angel Ⅱ   | 8,000         | 8,000                      | 1,500               |
-| 6     | MatrixETF Angel Ⅲ   | 16,000        | 16,000                     | 2,000               |
-| 7     | MatrixETF Creator Ⅰ | 32,000        | 32,000                     | 4,000               |
-| 8     | MatrixETF Creator Ⅱ | 64,000        | 64,000                     | 10,000              |
-| 9     | MatrixETF Creator Ⅲ | 128,000       | 128,000                    | 20,000              |
-| 10    | MatrixETF Genesis Ⅰ | 256,000       | 256,000                    | 50,000              |
-| 11    | MatrixETF Genesis Ⅱ | 512,000       | 512,000                    | 80,000              |
+| 1     | MatrixETF Army Ⅰ    | 500           | 200                        | 100                 |
+| 2     | MatrixETF Army Ⅱ    | 1,000         | 400                        | 200                 |
+| 3     | MatrixETF Army Ⅲ    | 2,000         | 800                        | 500                 |
+| 4     | MatrixETF Angel Ⅰ   | 4,000         | 1,000                      | 1,000               |
+| 5     | MatrixETF Angel Ⅱ   | 8,000         | 1,500                      | 1,500               |
+| 6     | MatrixETF Angel Ⅲ   | 16,000        | 2,000                      | 2,000               |
+| 7     | MatrixETF Creator Ⅰ | 32,000        | 3,000                      | 4,000               |
+| 8     | MatrixETF Creator Ⅱ | 64,000        | 5,000                      | 10,000              |
+| 9     | MatrixETF Creator Ⅲ | 128,000       | 8,000                      | 20,000              |
+| 10    | MatrixETF Genesis Ⅰ | 256,000       | 12,000                     | 50,000              |
+| 11    | MatrixETF Genesis Ⅱ | 512,000       | 20,000                     | 80,000              |
 | 12    | MatrixETF Genesis Ⅲ | 1,024,000     | -                          | 100000              |
 
 The Title of MatrixETF Community Ambassador can be exchanged and upgraded by consuming $MDF. The exchanged MDF can be vested after being locked for 6–12 months.

@@ -16,7 +16,11 @@ Download the Tase Sheet：[https://docs.google.com/spreadsheets/d/1v9qJJrJTihVaW
 
 **Email address**: business@matrixetf.finance
 
-**Submit form**: [https://forms.gle/poLFKrEY49bW4nry6](https://forms.gle/poLFKrEY49bW4nry6)
+**Submit form**:&#x20;
+
+~~1.~~[~~https://forms.gle/poLFKrEY49bW4nry6~~](https://forms.gle/poLFKrEY49bW4nry6)~~(disused)~~
+
+2.[https://forms.gle/CFnUPtQcNgbwpcEB6](https://forms.gle/CFnUPtQcNgbwpcEB6)
 
 ### 2.How to contribute to MatrixETF for Ambassador Plan?
 
@@ -24,7 +28,11 @@ You can make your contributions for MatrixETF in various ways(more than 17 tasks
 
 <mark style="color:yellow;">**Tasks Sheet**</mark>:[https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M0OZES5ipY-JIf0w0KXfJajCtX67HJ1C1QmmgN6j3fE/edit?usp=sharing)
 
-<mark style="color:yellow;">**Submit Form**</mark>:[https://forms.gle/poLFKrEY49bW4nry6](https://forms.gle/poLFKrEY49bW4nry6)
+<mark style="color:yellow;">**Submit Form**</mark>:
+
+~~1.~~[~~https://forms.gle/poLFKrEY49bW4nry6~~](https://forms.gle/poLFKrEY49bW4nry6)~~(disused)~~
+
+2.[https://forms.gle/CFnUPtQcNgbwpcEB6](https://forms.gle/CFnUPtQcNgbwpcEB6)
 
 ### 3.How to be a MatrixETF Community Ambassador?
 
@@ -50,11 +58,23 @@ Community Ambassador Points Rank:[https://docs.google.com/spreadsheets/d/1utLmKq
 
 Only if you have 500 Points, you can submit your inquiry for exchange to MDF weekly.
 
-Applying Form:[https://forms.gle/sFECjkBiz87UrZb18](https://forms.gle/sFECjkBiz87UrZb18)
+Applying Form:
+
+~~1.~~[~~https://forms.gle/sFECjkBiz87UrZb18~~](https://forms.gle/sFECjkBiz87UrZb18)~~(Disused)~~
+
+2.[https://forms.gle/C5ckdTCiZYw2gop5A](https://forms.gle/C5ckdTCiZYw2gop5A)
 
 ### 9.What's the exchange ration of Point and MDF?
 
-The exchange ratio of Point and $MDF will be adjusted once 3 months, the initial ratio will be 1 Point=10 MDF.
+~~The exchange ratio of Point and $MDF will be adjusted once 3 months, the initial ratio will be 1 Point=10 MDF.~~
+
+To incentivize community ambassadors to gain points and levels from working proofs, the higher level means you will be awarded with more rewards. We have decided to provide users with a more competitive rewarding system by combining Level Improvement and Ratio Exchange.
+
+![](<../../.gitbook/assets/image (2).png>)
+
+Want to know more information, please check this article for reference:
+
+[《MatrixETF Community Ambassador Point，Level & Ratio Announcement》](https://matrixetf.medium.com/matrixetf-community-ambassador-point-level-ratio-announcement-ee135ff5f904)
 
 ### 10.Is there any other rewards, except for Points?
 
