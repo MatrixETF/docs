@@ -2,26 +2,17 @@
 
 MatrixETF Community Ambassador Plan will utilize the Point System. If you have accomplished the tasks and gained enough points, you can convert to corresponding Level Title, the specific Level Title will have the right to distribute $MDF in the community.
 
-* Earned points can be exchanged to $MDF(MatrixETF Governance Token), which can be exchanged once a week.
-* The exchange ratio of Point and $MDF will be adjusted once 3 months, the initial ratio will be 1 Point=10 MDF
-* Once you have achieved to the specific level title, we will reward you with a specific NFT badge and a specific Level Title badge, you can benefit from certain number of community $MDF distribution
-* Level Title can be upgraded, but if you have not keep the same performance in 3 month after upgraded, your title could be downgraded
-* All Community Ambassadors will start from MatrixETF Army Ⅰ.
+To incentivize community ambassadors to gain points and levels from working proofs, the higher level means you will be awarded with more rewards. We have decided to provide users with a more competitive rewarding system by combining Level Improvement and Ratio Exchange.
 
-| Level | NFT Badge           | Demand Points | Upgrade Demand More Points | MDF Rewards Monthly |
-| ----- | ------------------- | ------------- | -------------------------- | ------------------- |
-| 1     | MatrixETF Army Ⅰ    | 500           | 200                        | 100                 |
-| 2     | MatrixETF Army Ⅱ    | 1,000         | 400                        | 200                 |
-| 3     | MatrixETF Army Ⅲ    | 2,000         | 800                        | 500                 |
-| 4     | MatrixETF Angel Ⅰ   | 4,000         | 1,000                      | 1,000               |
-| 5     | MatrixETF Angel Ⅱ   | 8,000         | 1,500                      | 1,500               |
-| 6     | MatrixETF Angel Ⅲ   | 16,000        | 2,000                      | 2,000               |
-| 7     | MatrixETF Creator Ⅰ | 32,000        | 3,000                      | 4,000               |
-| 8     | MatrixETF Creator Ⅱ | 64,000        | 5,000                      | 10,000              |
-| 9     | MatrixETF Creator Ⅲ | 128,000       | 8,000                      | 20,000              |
-| 10    | MatrixETF Genesis Ⅰ | 256,000       | 12,000                     | 50,000              |
-| 11    | MatrixETF Genesis Ⅱ | 512,000       | 20,000                     | 80,000              |
-| 12    | MatrixETF Genesis Ⅲ | 1,024,000     | -                          | 100000              |
+![Point/Level/Ratio Form](<../../.gitbook/assets/MatrixETF Ambassador PointLever \&Ratio.png>)
+
+**Notice:**
+
+* All community ambassadors will start from Pre-Ambassador, if you have accomplished tasks and reached up to 500 points, you will automatically become one of MatrixETF ArmyⅠ.
+* The ratio between points and $MDF will change according to the level, higher level is with higher exchange ratio.
+* Awarded Points can be exchanged with $MDF(MatrixETF Governance Token) once a week.
+* Titles can be upgraded, however if you don’t keep the same performance in 2 months, your titles are possible to be downgraded.
+* Ambassadors with certain level titles, can have the certain community $MDF distribution rights every month.
 
 The Title of MatrixETF Community Ambassador can be exchanged and upgraded by consuming $MDF. The exchanged MDF can be vested after being locked for 6–12 months.
 

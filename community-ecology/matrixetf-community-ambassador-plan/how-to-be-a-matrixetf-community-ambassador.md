@@ -8,11 +8,11 @@ Article 1:[《MatrixETF Community Ambassador Plan》](https://matrixetf.medium.c
 
 Article 2:[《Reward Details of MatrixETF Community Ambassador》](https://matrixetf.medium.com/reward-details-of-matrixetf-community-ambassador-838cf4d8b6da)
 
-Application Link:[https://forms.gle/xG86NmF9zxEhHRxe6](https://forms.gle/xG86NmF9zxEhHRxe6)
+Application Link:[https://forms.gle/xG86NmF9zxEhHRxe6](https://forms.gle/xG86NmF9zxEhHRxe6)~~**(disabled)**~~
 
 ### **Second Step: Join MatrixETF Community Ambassador Telegram group** <a href="#cd0e" id="cd0e"></a>
 
-<mark style="color:yellow;">**Telegram**</mark>**:**[https://t.me/+y7LwvV9VYfNmYzA1](https://t.me/+y7LwvV9VYfNmYzA1)
+<mark style="color:yellow;">**Telegram**</mark>**:**[https://t.me/+y7LwvV9VYfNmYzA1](https://t.me/+y7LwvV9VYfNmYzA1)~~**(disabled)**~~
 
 ### Third Step: Finish tasks in Telegram group <a href="#b3ee" id="b3ee"></a>
 
@@ -24,7 +24,9 @@ We will start Ambassador trial running plan for 1 month. By distributing tasks i
 
 ~~<mark style="color:yellow;">1.</mark>~~[~~<mark style="color:yellow;">https://forms.gle/poLFKrEY49bW4nry6</mark>~~](https://forms.gle/poLFKrEY49bW4nry6)~~<mark style="color:yellow;">(</mark>~~<mark style="color:yellow;">disused</mark>~~<mark style="color:yellow;">)</mark>~~
 
-2.[https://forms.gle/CFnUPtQcNgbwpcEB6](https://forms.gle/CFnUPtQcNgbwpcEB6)
+~~2.~~[~~https://forms.gle/CFnUPtQcNgbwpcEB6~~](https://forms.gle/CFnUPtQcNgbwpcEB6)~~**(disabled)**~~
+
+**3.**[**https://forms.gle/b7LnJCU3RXDWqr449**](https://forms.gle/b7LnJCU3RXDWqr449)**(active)**
 
 ### Fourth Step: Officially becoming one of **MatrixETF Community Ambassadors** <a href="#097f" id="097f"></a>
 
